@@ -10,13 +10,13 @@ The purpose of this analysis is to help Louise run a successful kickstarter camp
 
 ### Analysis of Outcomes Based on Launch Date
 
-Performing data analysis on thousands of crowdfunding projects we were able to uncover trends on Launch date. To do this, I needed the powerful tool, **Excel**. First, I needed to over come the challenge of converting unix time stamps to a short date (easily readable) for the start and end date of campaigns. **Code** ```=(((Unix Time Stamp/60)/60)/24)+DATE(1970,1,1)```. Next i needed to use the **text to columns** function in Excel to break out catgegory and subcategory into two separate columns. Then i input the data into a **Pivot table** (a powerful summarizing tool). With the **Pivot Table** i was able to summarize the outcome by months while filtering on the parent category "Theater". Finally, i used a **Pivot Chart** to create an easily digestable visual of the analysis. 
+Performing data analysis on thousands of crowdfunding projects I was able to uncover trends on Launch date. To do this, I needed the powerful tool, **Excel**. First, I needed to over come the challenge of converting unix time stamps to a short date (easily readable) for the start and end date of campaigns. **Code** ```=(((Unix Time Stamp/60)/60)/24)+DATE(1970,1,1)```. Next i needed to use the **text to columns** function in Excel to break out catgegory and subcategory into two separate columns. Then i input the data into a **Pivot table** (a powerful summarizing tool). With the **Pivot Table** i was able to summarize the outcome by months while filtering on the parent category "Theater". Finally, i used a **Pivot Chart** to create an easily digestable visual of the analysis. 
 
 ![Theater_Outcomes_vs_Launch](/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
-Outcomes based on Goals tells us the number of successful and failed campaigns based on a particular goal range. To complete this analysis, I broke out the goals into ranges. Then , performed the ```countifs``` function in excel. to bring in the number of successful, failed and canceled campaigns. Then I used a ```sum``` function to add all three together (Total Projects). Next I divided the number of successful, failed and canceled one-by-one by Total Projects to get the percentage for each goal range. Finally, i created a line chart to show the trends by goal amounts. 
+Outcomes based on Goals tells us the number of successful and failed campaigns based on a particular goal range. To complete this analysis, I broke out the goals into ranges. Then , performed the ```countifs``` function in excel to bring in the number of successful, failed and canceled campaigns. Then I used a ```sum``` function to add all three together (Total Projects). Next I divided the number of successful, failed and canceled one-by-one by Total Projects to get the percentage for each goal range. Finally, i created a line chart to show the trends by goal amounts. 
 
 ![Outcomes Based on Goals](/resources/Outcomes_vs_Goals.png)
 
@@ -24,7 +24,7 @@ Outcomes based on Goals tells us the number of successful and failed campaigns b
  - Converting unix timestamps to a short date.
    - This was a new challenge for me. I needed to read documentation on the web to learn about conversions.
  - Creating creating countifs statement.
-   - At first, i created the countifs to have greater than or less than. Soon realizing it needed to be greater than or less than to      complete the assignment. 
+   - At first, i created the countifs to have greater than or less than. Soon realizing it needed to be 'greater than or equal to' or      'less than or equal to', to complete the assignment. 
  - Creating Pivot Tables and summarizing on the best information.
    - Figuring out which fields were the best to include in the pivot tables.
 
