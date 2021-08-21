@@ -35,10 +35,9 @@ Outcomes based on Goals tells us the number of successful and failed campaigns b
   - The most successful campaigns are less than $1,000. Historically, campaigns less than $10,000 have over a 50% chance of success.     while the success rate between $35,000 and $44,999 is good,it is too small of a sample size to confiently say there is a high         success rate in that range
 
 - What are some limitations of this dataset?
- - The sample size is realitivily small
- - Not all of the data set is for the nitch market Louise is getting into
- - 
+  - The sample size is realitivily small
+  - Not all of the data set is for the nitch market Louise is getting into
 
 - What are some other possible tables and/or graphs that we could create?
- - Pivot table utilizing the filter for Staff Pick. If staff pick is true the success rate is very high
- - Pivot table utilizing the fileter for Spotlight. If spotlighted, the success rate is 100%!
+  - Pivot table utilizing the filter for Staff Pick. If staff pick is true the success rate is very high
+  - Pivot table utilizing the fileter for Spotlight. If spotlighted, the success rate is 100%!
