@@ -4,6 +4,8 @@
 
 ### Purpose
 
+The purpose is to help Louise run a successful kickstarter campaign to fund her theater project. 
+
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
