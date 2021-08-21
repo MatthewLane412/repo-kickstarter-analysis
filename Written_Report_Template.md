@@ -4,7 +4,7 @@
 
 ### Purpose
 
-The purpose of this analysis is to help Louise run a successful kickstarter campaign to fund her theater project. Looking through historical data, we are able to determin insights that may help Louis run a successful campaign.
+The purpose of this analysis is to help Louise run a successful kickstarter campaign to fund her theater project. Looking through historical data, we are able to determine insights that may help Louise run a successful campaign.
 
 ## Analysis and Challenges
 
