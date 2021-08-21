@@ -10,9 +10,16 @@ The purpose is to help Louise run a successful kickstarter campaign to fund her 
 
 ### Analysis of Outcomes Based on Launch Date
 
+Performing data analysis on thousands of crowdfunding projects we were able to uncover trends on Launch date. Historically the most successful campains start in May and June. In addition, the least successful campaigns start in December. 
+
+
 ### Analysis of Outcomes Based on Goals
 
+
+
 ### Challenges and Difficulties Encountered
+
+
 
 ## Results
 
