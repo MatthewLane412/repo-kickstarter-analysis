@@ -18,6 +18,8 @@ Performing data analysis on thousands of crowdfunding projects we were able to u
 
 Outcomes based on Goals tells us the number of successful and failed campaigns based on a particular goal range. To complete this analysis, I broke out the goals into ranges. Then , performed the ```countifs``` function in excel. to bring in the number of successful, failed and canceled campaigns. Then I used a ```sum``` function to add all three together (Total Projects). Next I divided the number of successful, failed and canceled one-by-one by Total Projects to get the percentage for each goal range. Finally, i created a line chart to show the trends by goal amounts. 
 
+![Outcomes Based on Goals](/resources/Outcomes_vs_Goals.png)
+
 ### Challenges and Difficulties Encountered
 
 
