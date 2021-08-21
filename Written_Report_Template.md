@@ -12,7 +12,7 @@ The purpose is to help Louise run a successful kickstarter campaign to fund her 
 
 Performing data analysis on thousands of crowdfunding projects we were able to uncover trends on Launch date. Historically the most successful campains start in May and June. In addition, the least successful campaigns start in December. 
 
-[a link](https://github.com/MatthewLane412/repo-kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
