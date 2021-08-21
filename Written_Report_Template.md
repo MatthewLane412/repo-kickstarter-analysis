@@ -21,23 +21,26 @@ Outcomes based on Goals tells us the number of successful and failed campaigns b
 ![Outcomes Based on Goals](/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
- - Converting unix timestamps to a short date
- - Creating creating countifs statement
- - Creating Pivot Tables
+ - Converting unix timestamps to a short date.
+   - This was a new challenge for me. I needed to read documentation on the web to learn about conversions.
+ - Creating creating countifs statement.
+   - At first, i created the countifs to have greater than or less than. Soon realizing it needed to be greater than or less than to      complete the assignment. 
+ - Creating Pivot Tables and summarizing on the best information.
+   - Figuring out which fields were the best to include in the pivot tables.
 
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
   - Historically the most successful campains start in May and June. In addition, the least successful campaigns start in December. 
-
+   
 - What can you conclude about the Outcomes based on Goals?
-  - The most successful campaigns are less than $1,000. Historically, campaigns less than $10,000 have over a 50% chance of success.     while the success rate between $35,000 and $44,999 is good,it is too small of a sample size to confiently say there is a high         success rate in that range
+  - The most successful campaigns are less than $1,000. Historically, campaigns less than $10,000 have over a 50% chance of success.     I would recommend keeping the kickstarter campaing under $10,000.   
 
 - What are some limitations of this dataset?
   - The sample size is realitivily small
   - Not all of the data set is for the nitch market Louise is getting into
 
 - What are some other possible tables and/or graphs that we could create?
-  - Pivot table utilizing the filter for Staff Pick. If staff pick is true the success rate is very high
+  - Pivot table utilizing the filter for Staff Pick. If staff pick is true the success rate is very high.
   - Pivot table utilizing the fileter for Spotlight. If spotlighted, the success rate is 100%!
