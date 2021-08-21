@@ -32,7 +32,7 @@ Outcomes based on Goals tells us the number of successful and failed campaigns b
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-  - Historically the most successful campaigns start in May and June. In addition, the least successful campaigns start in December. 
+  - Historically the most successful campaigns start in May and June. In addition, the least successful campaigns start in December. Most campaigns launch in late Spring to early Summer
    
 - What can you conclude about the Outcomes based on Goals?
   - The most successful campaigns are less than $1,000. Historically, campaigns less than $10,000 have over a 50% chance of success. I would recommend keeping the kickstarter campaing under $10,000.   
